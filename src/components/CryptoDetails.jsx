@@ -2,7 +2,10 @@ import React from "react";
 
 const CryptoDetails = () => {
   return (
-    <div> CryptoDetails................................................. </div>
+    <div>
+      {" "}
+      CryptoDetails.................................................dfgggf{" "}
+    </div>
   );
 };
 
